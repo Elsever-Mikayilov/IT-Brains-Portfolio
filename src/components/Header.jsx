@@ -21,7 +21,7 @@ const Header = () => {
                     loop >
                     
                 </Typed>
-                <a href={cv} className='downloadCV' download>CV-mi endir</a>
+                <a href={cv} className='downloadCV' download>download cv</a>
 
             </div>
             
